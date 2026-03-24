@@ -1,0 +1,3 @@
+com\yourcompany\jmeter\azureai\AzureAIChatGui.class
+com\yourcompany\jmeter\azureai\AzureOpenAIService.class
+com\yourcompany\jmeter\azureai\AzureAIChatElement.class
