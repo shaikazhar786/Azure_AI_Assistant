@@ -13,8 +13,14 @@ Add your Azure OpenAI credentials at the bottom:
 
 
 azure.openai.endpoint=https://YOUR_RESOURCE_NAME.openai.azure.com/
+
+
 azure.openai.key=YOUR_AZURE_API_KEY_HERE
+
+
 azure.openai.deployment=YOUR_MODEL_DEPLOYMENT_NAME
+
+
 Save the file and start JMeter.
 
 Right-click your Test Plan -> Add -> Config Element -> Azure AI JMeter Assistant.
