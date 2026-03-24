@@ -11,7 +11,7 @@ Navigate to JMETER_HOME/bin/ and open jmeter.properties (or user.properties) in 
 
 Add your Azure OpenAI credentials at the bottom:
 
-#Properties
+
 azure.openai.endpoint=https://YOUR_RESOURCE_NAME.openai.azure.com/
 azure.openai.key=YOUR_AZURE_API_KEY_HERE
 azure.openai.deployment=YOUR_MODEL_DEPLOYMENT_NAME
